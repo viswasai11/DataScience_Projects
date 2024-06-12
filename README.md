@@ -26,7 +26,7 @@ Warm regards,
 Goudampally Viswasai [LinkedIn](https://www.linkedin.com/in/viswasai-goudampally-b00869239/)
 | Topic | Category | Project Name | Link |
 |---|-------|--|-------|
-|**Power BI**| | Sample_SuperStore |[Link](https://github.com/viswasai11/Sample_superstore)|
+|**Power BI**| | Sample_SuperStore |[Link to Project](https://github.com/viswasai11/Sample_superstore)|
 | | |Techno_edge_sales| [Link to Project](https://github.com/viswasai11/Techno_edge_sales) |
 | **Machine Learning Techniques** | | | |
 ||Regression| 
