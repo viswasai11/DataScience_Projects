@@ -27,11 +27,12 @@ Goudampally Viswasai [LinkedIn](https://www.linkedin.com/in/viswasai-goudampally
 | Topic | Category | Project Name | Link |
 |---|-------|--|-------|
 | **Machine Learning Techniques** | | | |
-||Regression | 
-House_Price_Prediction | [Link to Project](https://github.com/viswasai11/House_Price_Prediction) |
+||Regression| 
+| | |House_Price_Prediction|[Link to Project](https://github.com/viswasai11/House_Price_Prediction)|
 | | | MPG_Prediction | [Link to Project](https://github.com/viswasai11/MPG_Prediction) |  
 | | | NYC_Green_taxi|[Link to Project](https://github.com/viswasai11/NYC_Green_Taxi)|
 | | | Bigmart_Sales | [Link to Project](https://github.com/viswasai11/BIG_MART_SALES)|
-|| Classification | HR_Analytics | [Link to Project](https://github.com/viswasai11/Hr_Analystics) |
-|            | Customer_Churn | [Link to Project](https://github.com/viswasai11/Customer_Churn) |
-|            | House_Grade_Prediction | [Link to Project](https://github.com/viswasai11/House-Grade-Prediction) |
+||Classification|
+| | |HR_Analytics|[Link to Project](https://github.com/viswasai11/Hr_Analystics) |
+| | |Customer_Churn |[Link to Project](https://github.com/viswasai11/Customer_Churn) |
+| | |House_Grade_Prediction |[Link to Project](https://github.com/viswasai11/House-Grade-Prediction) |
