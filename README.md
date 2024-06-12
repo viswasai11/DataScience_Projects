@@ -25,7 +25,7 @@ Your presence in this space is truly valued, and I'm thrilled to have you on thi
 |Topic| Category | Project Name | Link |
 |---|-------|--|-------|
 |**Machine Learning Techniques**| | | |
-| | |Regression|Big Mart Sales Prediction|[Link](https://github.com/viswasai11/BIG_MART_SALES)
+| |Regression|Big Mart Sales Prediction|[Link](https://github.com/viswasai11/BIG_MART_SALES)
 | | |Big Mart Sales Prediction|[Link](https://github.com/viswasai11/BIG_MART_SALES)
 | |Classification|
 | | |HR Analytics |[Link](https://github.com/viswasai11/Hr_Analystics)
