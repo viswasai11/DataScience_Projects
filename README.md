@@ -36,3 +36,4 @@ Goudampally Viswasai [LinkedIn](https://www.linkedin.com/in/viswasai-goudampally
 | | |HR_Analytics|[Link to Project](https://github.com/viswasai11/Hr_Analystics) |
 | | |Customer_Churn |[Link to Project](https://github.com/viswasai11/Customer_Churn) |
 | | |House_Grade_Prediction |[Link to Project](https://github.com/viswasai11/House-Grade-Prediction) |
+| | |Vehicle_coupon_recommendation | [Link to Project](https://github.com/viswasai11/Vehicle_coupon_recommendation/tree/main)|
