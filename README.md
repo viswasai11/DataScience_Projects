@@ -32,6 +32,7 @@ Goudampally Viswasai [LinkedIn](https://www.linkedin.com/in/viswasai-goudampally
 | | | MPG_Prediction | [Link to Project](https://github.com/viswasai11/MPG_Prediction) |  
 | | | NYC_Green_taxi|[Link to Project](https://github.com/viswasai11/NYC_Green_Taxi)|
 | | | Bigmart_Sales | [Link to Project](https://github.com/viswasai11/BIG_MART_SALES)|
+| | | House_Price_Prediction | [Link to Project](https://github.com/viswasai11/House_Price_Prediction) |
 | |Classification|
 | | |HR_Analytics|[Link to Project](https://github.com/viswasai11/Hr_Analystics) |
 | | |Customer_Churn |[Link to Project](https://github.com/viswasai11/Customer_Churn) |
